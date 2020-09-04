@@ -27,7 +27,7 @@
         <LastName>Miller</LastName>
         <PayRate>10.50</PayRate>
         <ActiveStore storeNumber="39596">
-            <AddressLine1>3040 W. Broad St</AddressLine1>
+            <AddressLine1>1000 W. Broad St</AddressLine1>
             <City>Columbus</City>
             <State>OH</State>
             <Zip>43228</Zip>
@@ -77,7 +77,7 @@
             <Zip>43123</Zip>
         </ActiveStore>
     </Employee>
-    <Employee id="2345809295A">
+    <Employee id="23945809295A">
         <FirstName>Dalaina</FirstName>
         <LastName>Johnson</LastName>
         <PayRate>9.25</PayRate>
